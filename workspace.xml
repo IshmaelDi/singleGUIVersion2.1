@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea89ad51-acd3-46bf-9019-aaf360c289ce" name="Changes" comment="Test added">
+      <change afterPath="$PROJECT_DIR$/src/test/java/YF/pageObjects/BeneficiaryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/YF/pageObjects/ChildPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/YF/pageObjects/FicaPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/YF/pageObjects/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/YF/pageObjects/LandingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/YF/pageObjects/LeadPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/YF/pageObjects/Nagivation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/YF/pageObjects/PayerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/YF/pageObjects/PremiumPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/YF/pageObjects/ProductPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/YF/pageObjects/RewardsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/YF/pageObjects/SpousePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/YF/pageObjects/SummaryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/YF/pageObjects/memberPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/YF/pageObjects/startSalePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PageObjects/SummaryPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PageObjects/SummaryPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinitions/SingleGuiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinitions/SingleGuiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/search/SingleGUITest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/search/SingleGUITest.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="SguiTestBranch" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;
+    },
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;MashadiProjects&quot;
+    },
+    {
+      &quot;state&quot;: &quot;MERGED&quot;,
+      &quot;reviewState&quot;: &quot;AWAITING_REVIEW&quot;
+    },
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;author&quot;: &quot;IshmaelDi&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;author&quot;: &quot;IshmaelDi&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="IshmaelDi" />
+        <option name="repository" value="singleGUIAutomationsProject" />
+      </RepoCoordinatesHolder>
+    </option>
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7bf39734-d74e-4a98-a84e-191ca8aeb10b" />
+        <option name="url" value="https://github.com/IshmaelDi/singleGUIAutomationsProject.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2WW8TZZ9tBGThVLwQBhjSkw3iGT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "SguiTestBranch101",
+    "last_opened_file_path": "C:/Users/kmolale/IdeaProjects/singleGUIAutomationsProject/src/test/java/YF/pageObjects",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "inlay.hints"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn compile" />
+      <command value="mvn clean" />
+      <command value="mvn serenity:aggregate" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SingleGUITest [1]">
+    <configuration name="Feature: SingleGUITest" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/search/SingleGUITest.feature" />
+      <option name="GLUE" value="net.serenitybdd.cucumber.actors StepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="cucumber-starter" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: SingleGUITest" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Capture individual cover for all ages." type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/search/SingleGUITest.feature" />
+      <option name="GLUE" value="net.serenitybdd.cucumber.actors" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="cucumber-starter" />
+      <option name="NAME_FILTER" value="^Capture individual cover for all ages\.$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Capture individual cover for all ages\.$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Capture individual cover for all ages." />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Capture information on Payer Details, Bank Details, Debit Check and Authorization" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/search/homePage.feature" />
+      <option name="GLUE" value="net.serenitybdd.cucumber.actors" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="cucumber-starter" />
+      <option name="NAME_FILTER" value="^Capture information on Payer Details\, Bank Details\, Debit Check and Authorization$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Capture information on Payer Details\, Bank Details\, Debit Check and Authorization$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Capture information on Payer Details, Bank Details, Debit Check and Authorization" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleGUITest [1]" type="JUnit" factoryName="JUnit" nameIsGenerated="true" repeat_mode="N Times">
+      <module name="cucumber-starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Runner" />
+      <option name="MAIN_CLASS_NAME" value="Runner.SingleGUITest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleGuiAuto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cucumber-starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Runner" />
+      <option name="MAIN_CLASS_NAME" value="Runner.SingleGuiAuto" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Feature: SingleGUITest" />
+      <item itemvalue="Cucumber Java.Scenario: Capture individual cover for all ages." />
+      <item itemvalue="Cucumber Java.Scenario: Capture information on Payer Details, Bank Details, Debit Check and Authorization" />
+      <item itemvalue="JUnit.SingleGUITest [1]" />
+      <item itemvalue="JUnit.SingleGuiAuto" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: Capture individual cover for all ages." />
+        <item itemvalue="JUnit.SingleGuiAuto" />
+        <item itemvalue="Cucumber Java.Feature: SingleGUITest" />
+        <item itemvalue="Cucumber Java.Scenario: Capture information on Payer Details, Bank Details, Debit Check and Authorization" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea89ad51-acd3-46bf-9019-aaf360c289ce" name="Changes" comment="" />
+      <created>1696836984925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696836984925</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Page object moved to source roots.">
+      <option name="closed" value="true" />
+      <created>1696837244253</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696837244253</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Files and tests updated.">
+      <option name="closed" value="true" />
+      <created>1696853814797</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696853814797</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Files and tests updated.">
+      <option name="closed" value="true" />
+      <created>1697010925744</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697010925744</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Files updated.">
+      <option name="closed" value="true" />
+      <created>1697011005826</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697011005826</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added comment">
+      <option name="closed" value="true" />
+      <created>1697026400811</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697026400811</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added Test updates">
+      <option name="closed" value="true" />
+      <created>1697613550932</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697613550932</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added Test updated">
+      <option name="closed" value="true" />
+      <created>1697616539879</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697616539879</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added Test updates">
+      <option name="closed" value="true" />
+      <created>1697620376314</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1697620376314</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Test added">
+      <option name="closed" value="true" />
+      <created>1698323247808</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698323247808</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="SingleGUITestProject" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Page object moved to source roots." />
+    <MESSAGE value="Files and tests updated." />
+    <MESSAGE value="Files updated." />
+    <MESSAGE value="added comment" />
+    <MESSAGE value="Added Test updated" />
+    <MESSAGE value="Added Test updates" />
+    <MESSAGE value="Test added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test added" />
+  </component>
+</project>
